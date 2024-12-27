@@ -171,7 +171,7 @@ def option2():
 
 
 
-My GitHub : https://github.com/mxssacro
+My GitHub : https://github.com/r4nd0mn1
 '''
 
     colored_text = Colorate.Horizontal(Colors.purple_to_blue, guide_text)
@@ -383,7 +383,7 @@ def option9():
 
  '''
     print(Colorate.Vertical(Colors.purple_to_blue, Center.XCenter(banner)))
-    print(Colorate.Horizontal(Colors.purple_to_blue, f"ip pinger on github (ip pinger.py): https://github.com/mxssacro/juicy-tool-v1.1"))
+    print(Colorate.Horizontal(Colors.purple_to_blue, f"ip pinger on github (ip pinger.py): https://github.com/r4nd0mn1/StellarTool"))
     input("Press Enter to return ")
 
 def main():
